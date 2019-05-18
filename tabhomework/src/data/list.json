@@ -1,0 +1,75 @@
+{
+    "Status": "0",
+    "ErrMsg": null,
+    "DataStatus": 200,
+    "Datas": {
+        "FlowerList": [{
+            "Name": "忘情巴黎",
+            "num": 1,
+            "Image": "https://img01.hua.com/uploadpic/newpic/9012009.jpg",
+            "Price": 292,
+            "id": 1
+
+        }, {
+            "Name": "真爱如初",
+            "num": 1,
+            "Image": "https://img01.hua.com/uploadpic/newpic/9010947.jpg",
+            "Price": 185,
+            "id": 2
+        }, {
+            "Name": "忘情巴黎＋德芙心语巧克力98克特价组合套装",
+            "num": 1,
+            "Image": "https://img01.hua.com/uploadpic/newpic/9092117.jpg",
+            "Price": 329,
+            "id": 3
+        }, {
+            "Name": "一心一意",
+            "num": 1,
+            "Image": "https://img01.hua.com/uploadpic/newpic/9010011.jpg",
+            "Price": 126,
+            "id": 4
+        }, {
+            "Name": "淳美之爱",
+            "num": 1,
+            "Image": "https://img01.hua.com/uploadpic/newpic/9010869.jpg",
+            "Price": 300,
+            "id": 5
+        }, {
+            "Name": "恋恋情深",
+            "num": 1,
+            "Image": "https://img01.hua.com/uploadpic/newpic/9012243.jpg",
+            "Price": 195,
+            "id": 6
+
+        }, {
+            "Name": "一心一意+德芙心语巧克力特价组合套装",
+            "num": 1,
+            "Image": "https://img01.hua.com/uploadpic/newpic/9092118.jpg",
+            "Price": 205,
+            "id": 7
+
+        }, {
+            "Name": "恋恋情深＋心相印蛋糕",
+            "num": 1,
+            "Image": "https://img01.hua.com/uploadpic/newpic/9092116.jpg",
+            "Price": 322,
+            "id": 8
+
+        }, {
+            "Name": "浪漫缤纷",
+            "num": "1",
+            "Image": "https://img01.hua.com/uploadpic/newpic/9012041.jpg",
+            "Price": 371,
+            "id": 9
+
+        }, {
+            "Name": "一往情深",
+            "num": 1,
+            "Image": "https://img01.hua.com/uploadpic/newpic/9010966.jpg",
+            "Price": 244,
+            "id": 10
+
+        }]
+
+    }
+}
